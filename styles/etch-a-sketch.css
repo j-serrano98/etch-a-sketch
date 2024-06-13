@@ -25,14 +25,15 @@ button {
     border-radius: 2px;
     border: 1px whitesmoke solid;
     background-color: #5e5e5e;
-    color: white;
+    color: whitesmoke;
 
 }
 
 button:hover {
-    background-color: #494949;
+    background-color: whitesmoke;
     border: 0px;
     font-weight: bold;
+    columns: #5e5e5e;
 }
 
 .container {
